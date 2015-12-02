@@ -14,7 +14,7 @@
 > - 查看安装应用，包括版本号: brew list --versions
 > - Homebrew Cask(Homebrew扩展): brew install caskroom/cask/brew-cask
 > - Homebrew 安装应用demo: brew cask install google-chrome
-> - Tip: Homebrew Cask网页链接 [<i class="icon-upload"></i> http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html.
+> - Tip: Homebrew Cask网页链接 [<i class="icon-upload"></i> http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html].
 
 
 
