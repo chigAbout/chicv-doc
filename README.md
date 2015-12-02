@@ -14,10 +14,24 @@
 > - 查看安装应用，包括版本号: brew list --versions
 > - Homebrew Cask(Homebrew扩展): brew install caskroom/cask/brew-cask
 > - Homebrew 安装应用demo: brew cask install google-chrome
-> - Tip: Homebrew Cask网页链接 [<i class="icon-upload"></i> http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html].
+> - Tip: Homebrew Cask网页链接 <i class="icon-upload"></i> http://sourabhbajaj.com/mac-setup/Homebrew/Cask.html.
 
 
+2.本地服务环境配置
+------------------
+
+> **Note**
+> **在启动你的 Homestead 环境之前，你必须先安装 VirtualBox 和 Vagrant.**
+> - virtualbox install: brew install Caskroom/cask/virtualbox
+> - Vagrant install: brew install Caskroom/cask/vagrant
+> - Homestead配置(laravel链接说明): http://laravel-china.org/docs/5.0/homestead
 
 
+3.代码部署配置
+--------------
 
-[1]: http://math.stackexchange.com/
+> **Note**
+> **获取代码之前先安装git应用**
+> - git install: brew install Caskroom/cask/git
+> - git的一些使用方法: http://git-scm.com/docs/gittutorial
+> - git的提交原理: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
