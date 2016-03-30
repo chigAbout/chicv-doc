@@ -43,7 +43,8 @@ $ brew install Caskroom/cask/virtualbox
 $ brew install Caskroom/cask/vagrant
 ```
 > - Homestead配置(laravel链接说明): http://laravel-china.org/docs/5.0/homestead
-
+> - Tips:从github上clone下来的Homestead配置文件，恢复到`2277085`版本号，然后用vbox的0.3.3版本，这个都已经提前下载好了，最新版的不能支持本地安装，从本地安装的命令是：`vagrant box add laravel/homestead /path/to/local/0.3.3.vbox`
+	
 
 3.代码部署配置
 --------------
